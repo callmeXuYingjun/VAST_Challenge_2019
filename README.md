@@ -1,4 +1,7 @@
 # Entry For Vast Challenge 2019 MC2
+
+## Award for Integrated Tool with Rich Data Encodings
+
 ## Team Members:
 Shaobin Xu, Northeast Normal University, xusb531@nenu.edu.cn PRIMARY
 
