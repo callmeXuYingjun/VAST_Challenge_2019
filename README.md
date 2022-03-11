@@ -19,6 +19,3 @@ A system developed using leaflet,node.js, vue.js, d3.js and Echarts
 
 ## Video
 https://youtu.be/EWGKhuc4iDs
-
-## Vast Challenge 2019
-https://vast-challenge.github.io/2019/
